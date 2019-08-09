@@ -1,6 +1,6 @@
 # 恩尼格码密码机
 
-标签（空格分隔）： MFC C++ Enigma
+标签： MFC C++ Enigma
 
 ---
 
