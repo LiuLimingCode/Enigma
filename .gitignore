@@ -1,3 +1,5 @@
 *.db
 Debug
 Release
+pswd.txt
+self
